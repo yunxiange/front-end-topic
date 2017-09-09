@@ -1,6 +1,6 @@
 ### CSS
 
-[Awesome CSS](https://github.com/sotayamashita/awesome-css)
+- [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 
 ### CSS Preprocessor
 
@@ -13,7 +13,7 @@
 
 - [ITCSS](http://itcss.io/)
 - [RTCSS](https://github.com/rstacruz/rscss)
-- [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
+- [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 - [SMACSS](https://smacss.com/)
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [Atomic Design](http://patternlab.io/resources.html)
